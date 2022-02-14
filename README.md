@@ -1,5 +1,7 @@
 <h1> DAW CIDEAD </h1>
 
+Este repositorio contiene la solución para la Tarea 4 de la asignatura de Entornos de Desarrollo, que es la siguiente:
+
 <h2>Tarea para ED04</h2>
 
 <b>Enunciado.</b> <br> <br>
