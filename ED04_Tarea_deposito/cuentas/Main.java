@@ -32,7 +32,7 @@ public class Main {
 	 * tercer lugar, a la variable SaldoActual le asigna el valor que consigue con
 	 * el método estado del objeto cuenta1 (método establecido en la clase CCuenta).
 	 * En cuarto lugar, muestra por pantalla un mensaje con el saldo actual de la
-	 * cuenta
+	 * cuenta.
 	 * 
 	 * En quinto lugar, intenta retirar una cantidad, utilizando el método retirar
 	 * del objeto cuenta1 (método establecido en la clase CCuenta). En sexto y
